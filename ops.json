@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "410a1903-3d3f-464d-9077-0d0105a3e787",
+    "name": "GEO_Mead",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "61960833-957d-47c1-b906-129c3a725315",
+    "name": "GreenOzz01",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "bcab92ca-b9a0-4b80-b536-a139aa219720",
+    "name": "RvolvrWest",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
